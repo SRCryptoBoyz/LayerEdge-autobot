@@ -36,9 +36,9 @@ LayerEdge bot auto claim
 
  `socks5://username:password@ip:port`
  
- ```sh
+   ```sh
     nano proxy.txt
- ```
+   ```
 
 4. masukan Data address dan private key wallet kalian di `wallets.json`: 
     ```sh
