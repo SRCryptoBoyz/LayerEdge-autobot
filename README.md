@@ -31,7 +31,6 @@ LayerEdge bot auto claim
 4. paste proxy di sini `proxy.txt`:
 
 -  format 
-
  `http://username:password@ip:port` atau `socks5://username:password@ip:port`
     ```sh
     nano proxy.txt
