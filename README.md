@@ -19,14 +19,16 @@ LayerEdge bot auto claim
 1. Clone the repository:
     ```sh
     git clone https://github.com/SRCryptoBoyz/LayerEdge-autobot.git
-    cd LayerEdge-Auto-Bot
+    ```
+    ```sh
+    cd LayerEdge-autobot
     ```
 
-2. Install dependencies:
+3. Install dependencies:
     ```sh
     npm install
     ```
-3. paste proxy di sini `proxy.txt`:
+4. paste proxy di sini `proxy.txt`:
 -  format 
 	`http://username:password@ip:port`
 	`socks5://username:password@ip:port`
