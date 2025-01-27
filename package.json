@@ -1,6 +1,6 @@
 {
   "type": "module",
-  "name": "LayerEdge-autobot",
+  "name": "layeredge-auto-bot",
   "version": "1.0.0",
   "description": "auto connect node layeredge",
   "main": "main.js",
