@@ -29,9 +29,13 @@ LayerEdge bot auto claim
     npm install
     ```
 4. paste proxy di sini `proxy.txt`:
+
 -  format 
-	`http://username:password@ip:port`
-	`socks5://username:password@ip:port`
+
+ `http://username:password@ip:port`
+
+ `socks5://username:password@ip:port`
+ 
     ```sh
     nano proxy.txt
     ```
