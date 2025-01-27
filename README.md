@@ -3,17 +3,15 @@ LayerEdge bot auto claim
 
 # LayerEdge-Autobot
 
->> website : https://dashboard.layeredge.io/
+- website : https://dashboard.layeredge.io/
 
 ## Features
 
->> ** Auto Run Node **
->> ** Support Proxy **
->> ** Otomatis claim Points per 1 jam **
+- ** Auto Run Node **
+- ** Support Proxy **
+- ** Otomatis claim Points per 1 jam **
 
-
-
->> Node.js installed on your machine
+- Node.js installed on your machine
 
 
 ## Instalasi bot
@@ -29,7 +27,7 @@ LayerEdge bot auto claim
     npm install
     ```
 3. paste proxy di sini `proxy.txt`:
->>  format 
+-  format 
 	`http://username:password@ip:port`
 	`socks5://username:password@ip:port`
     ```sh
